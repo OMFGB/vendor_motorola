@@ -199,7 +199,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shadow/proprietary/lib/libmoto_ril.so:/system/lib/libmoto_ril.so \
     vendor/motorola/shadow/proprietary/lib/libpppd_plugin-ril.so:/system/lib/libpppd_plugin-ril.so \
     vendor/motorola/shadow/proprietary/lib/libreference-ril.so:/system/lib/libreference-ril.so \
-    vendor/motorola/shadow/proprietary/lib/libril.so:/system/lib/libril.so \
     vendor/motorola/shadow/proprietary/lib/libril_rds.so:/system/lib/libril_rds.so \
     vendor/motorola/shadow/proprietary/lib/libbattd.so:/system/lib/libattd.so \
     vendor/motorola/shadow/proprietary/bin/battd.so:/system/bin/battd \
